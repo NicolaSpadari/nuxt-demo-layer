@@ -1,1 +1,1 @@
-# nuxt-demo-layer
+# Demo Nuxt Layer
